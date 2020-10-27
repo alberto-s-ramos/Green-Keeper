@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Green_Keeper</string>
+
+    <string-array name="plants">
+        <item> </item>
+        <item>Arruda</item>
+        <item>Hortelã</item>
+        <item>Manjericão</item>
+        <item>Orégãos</item>
+        <item>Salsa</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allerta</item>
+        <item>@font/baloo</item>
+        <item>@font/concert_one</item>
+        <item>@font/contrail_one</item>
+        <item>@font/crushed</item>
+        <item>@font/cuprum</item>
+        <item>@font/cuprum_bold</item>
+        <item>@font/farsan</item>
+        <item>@font/fjalla_one</item>
+        <item>@font/francois_one</item>
+        <item>@font/khand_medium</item>
+        <item>@font/orienta</item>
+        <item>@font/teko</item>
+        <item>@font/teko_light</item>
+    </array>
+</resources>
